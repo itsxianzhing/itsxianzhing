@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- Cyberpunk Waving Header Banner (Adjusted Height & Text Alignment) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=260&section=header&text=FATHAN%20MULYASA&fontSize=46&textAlignY=38&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Product-Minded%20Engineer&descSize=18&descAlignY=56" width="100%" />
+  <!-- Cyberpunk Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=220&section=header&text=FATHAN%20MULYASA&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Product-Minded%20Engineer&descSize=18&descAlignY=70" width="100%" />
 
   <br>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Solving+real-world+problems+with+code.;Product-Minded+Full-Stack+Engineer.;Building+Scalable+Web+%26+Mobile+Apps.;Focusing+on+Clean+Architecture+%26+User+Impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Solving+real-world+problems+with+code.;Product-Minded+Full-Stack+Engineer.;Building+Scalable+Web+%26+Mobile+Apps.;Focusing+on+Clean+Architecture+%26+User+Impact." alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -17,8 +17,6 @@
     <a href="mailto:fathanmh26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
-
----
 
 ---
 
