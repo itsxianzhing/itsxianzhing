@@ -97,17 +97,17 @@ operational bottlenecks and shipping solutions that create real value.
 
 <table>
 <tr>
-<td><img height="180" src="https://github-readme-stats.vercel.app/api?username=FathanEmHa&theme=cyberpunk&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-<td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathanEmHa&theme=cyberpunk&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
+<td><img height="180" src="https://github-readme-stats.vercel.app/api?username=itsxianzhing&theme=cyberpunk&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+<td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxianzhing&theme=cyberpunk&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FathanEmHa&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsxianzhing&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
 <!-- Trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=FathanEmHa&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsxianzhing&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
