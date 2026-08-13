@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cyberpunk Waving Header Banner (dark neon gradient, fixed text/desc collision) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:3d0e61,100:ff2ec4&height=300&section=header&text=FATHAN%20MULYASA&fontSize=44&fontColor=e0f7ff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20%7C%20Product-Minded%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:3d0e61,100:ff2ec4&height=300&section=header&text=FATHAN%20MULYASA%20H.&fontSize=44&fontColor=e0f7ff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20%7C%20Product-Minded%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header banner" />
 
   <br>
 
