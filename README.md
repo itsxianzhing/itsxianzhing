@@ -88,6 +88,29 @@ operational bottlenecks and shipping solutions that create real value.
   * **End-to-End Booking Lifecycle:** Integrated venue discovery, real-time interactive scheduling, automated payment workflows, and customer review systems.
   * **Hybrid Monetization Model:** Engineered around recurring subscriptions and transactional fees to ensure sustainable platform revenue.
 
+#### 3. 🎫 Helpdesk System — Full-Stack Ticket Management Platform
+> **Production Demo:** [helpdesk.tansys.my.id](https://helpdesk.tansys.my.id)
+
+* **Problem Statement:** Internal support requests often become difficult to track when communication is scattered across informal channels. A centralized ticket-based workflow is needed to manage requests, ownership, status, communication, and administrative oversight.
+* **Product & Technical Solutions:**
+  * **End-to-End Ticket Workflow:** Built a complete support workflow covering ticket creation, status and priority management, comments, ticket history, and administrative operations.
+  * **Secure Authentication & Authorization:** Implemented JWT authentication with refresh tokens, BCrypt password hashing, role-based authorization, protected routes, and separate Admin/User capabilities.
+  * **Real-Time Notifications:** Integrated **ASP.NET Core SignalR** to deliver ticket activity notifications in real time without requiring page refreshes.
+  * **Data Integrity & Concurrency:** Implemented audit fields, soft deletion, optimistic concurrency, pagination, filtering, sorting, and database-side timestamps to improve reliability as the system grows.
+  * **Production Deployment:** Deployed the complete full-stack application using Docker, Nginx Proxy Manager, Cloudflare Tunnel, Cloudflare, and Supabase PostgreSQL.
+
+#### 4. 🤖 AI Personal OS — Proactive AI Productivity Assistant
+> **Telegram-Based Personal Productivity System** powered by AI, automation, and persistent context
+
+* **Problem Statement:** Personal productivity is fragmented across calendars, notes, task managers, GitHub, reminders, and chat applications. AI Personal OS aims to provide a single interface that understands ongoing context and proactively helps plan, track, and review daily work.
+* **Product & Technical Solutions:**
+  * **Proactive Daily Planning:** Built scheduled morning, afternoon, and evening flows that review previous logs, unfinished tasks, GitHub activity, progress, and blockers to continuously guide daily execution.
+  * **Persistent Context:** Implemented daily logs, task/project tracking, message history, and short-term memory so the assistant can maintain context across interactions and days.
+  * **GitHub Integration:** Connected GitHub activity directly into the productivity workflow, allowing recent commits and selected repositories to become part of the assistant's planning context.
+  * **AI Persona & Interaction Layer:** Designed **Aya**, a dedicated AI persona with a casual conversational style and principles focused on honesty, productivity, and practical guidance.
+  * **Automation-Oriented Architecture:** Combined Telegram webhooks, a .NET Web API, PostgreSQL, OpenRouter, GitHub API, and n8n scheduled workflows into a single personal productivity system.
+  * **Agent-Ready Foundation:** Designed the system around a shared memory and reasoning layer so future domains such as learning, career, finance, and other personal workflows can be added incrementally.
+
 <!-- Neon divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,50:3d0e61,100:00f0ff&height=3" width="100%" alt="divider" />
 
