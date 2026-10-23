@@ -15,8 +15,8 @@
     <a href="https://tansys.my.id/"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=react&logoColor=A78BFA" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/fathan-mulyasa-h-599470371/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
     <a href="mailto:hello@tansys.my.id"><img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
-    <a href="https://github.com/FathanEmHa"><img src="https://hits.sh/github.com/FathanEmHa.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c3a8a&labelColor=0d1117" alt="Profile views" /></a>
-    <a href="https://github.com/FathanEmHa"><img src="https://komarev.com/ghpvc/?username=FathanEmHa&label=Visitors&color=4c3a8a&style=for-the-badge" alt="Visitors" /></a>
+    <a href="https://github.com/itsxianzhing"><img src="https://hits.sh/github.com/itsxianzhing.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c3a8a&labelColor=0d1117" alt="Profile views" /></a>
+    <a href="https://github.com/itsxianzhing"><img src="https://komarev.com/ghpvc/?username=itsxianzhing&label=Visitors&color=4c3a8a&style=for-the-badge" alt="Visitors" /></a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1537,50:4c3a8a,100:1e1537&height=2" width="100%" alt="divider" />
 
 <h3 align="center">
-  <samp>Hi, I'm <b><a href="https://github.com/FathanEmHa">Fathan</a></b> 👾</samp>
+  <samp>Hi, I'm <b><a href="https://github.com/itsxianzhing">Fathan</a></b> 👾</samp>
 </h3>
 <p align="center">
   <samp>Turning operational bottlenecks into scalable, real-world products.</samp><br/>
@@ -237,22 +237,22 @@ hello@tansys.my.id
 
 <table width="100%">
 <tr>
-<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api?username=FathanEmHa&show_icons=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="GitHub Stats" /></td>
-<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathanEmHa&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="Top Languages" /></td>
+<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api?username=itsxianzhing&show_icons=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="GitHub Stats" /></td>
+<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxianzhing&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="Top Languages" /></td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=FathanEmHa&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&stroke=30363d&border=30363d" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=itsxianzhing&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&stroke=30363d&border=30363d" alt="GitHub Streak" />
 
 <br><br>
 
 <!-- Contribution graph (neon) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FathanEmHa&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=1e1537&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsxianzhing&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=1e1537&hide_border=true" width="100%" alt="Contribution graph" />
 
 <br>
 
 <!-- Trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=FathanEmHa&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsxianzhing&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -262,9 +262,9 @@ hello@tansys.my.id
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/snake-dark.svg" alt="snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake-dark.svg" alt="snake animation" />
   </picture>
 </div>
 
@@ -272,9 +272,9 @@ hello@tansys.my.id
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/FathanEmHa/FathanEmHa/output/pacman-contribution-graph-dark.svg" alt="pacman animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph-dark.svg" alt="pacman animation" />
   </picture>
 </div>
 
@@ -293,7 +293,7 @@ hello@tansys.my.id
   <a href="mailto:hello@tansys.my.id"><img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
   <a href="https://www.linkedin.com/in/fathan-mulyasa-h-599470371/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
   <a href="https://tansys.my.id/"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=react&logoColor=A78BFA"/></a>
-  <a href="https://github.com/FathanEmHa"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C4B5FD"/></a>
+  <a href="https://github.com/itsxianzhing"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C4B5FD"/></a>
 </p>
 
 <div align="center">
