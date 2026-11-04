@@ -221,61 +221,42 @@ hello@tansys.my.id
 
 </details>
 
-<!-- Section divider GIF -->
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="620" alt="Awesome Work Environment" />
-  <br/><br/>
-</div>
-
 <!-- Neon divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1537,50:4c3a8a,100:1e1537&height=2" width="100%" alt="divider" />
 
-### 📊 GitHub Analytics
-
-<div align="center">
+### 📌 Currently
 
 <table width="100%">
-<tr>
-<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api?username=itsxianzhing&show_icons=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="GitHub Stats" /></td>
-<td align="center" width="50%"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxianzhing&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=true" alt="Top Languages" /></td>
-</tr>
+  <tr>
+    <th align="left" width="28%">Area</th>
+    <th align="left" width="72%">Status</th>
+  </tr>
+  <tr>
+    <td><b>🎯 Career</b></td>
+    <td>Open to Full-Stack / Frontend / Backend roles</td>
+  </tr>
+  <tr>
+    <td><b>🏗️ Building</b></td>
+    <td>SIPA, SVMS and AI Personal OS</td>
+  </tr>
+  <tr>
+    <td><b>📚 Sharpening</b></td>
+    <td>Clean architecture, multi-tenant design, DevOps and AI-assisted workflows</td>
+  </tr>
+  <tr>
+    <td><b>💬 Ask me about</b></td>
+    <td>Laravel, Next.js, .NET, Docker self-hosting, SaaS product design</td>
+  </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=itsxianzhing&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&stroke=30363d&border=30363d" alt="GitHub Streak" />
-
-<br><br>
-
-<!-- Contribution graph (neon) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsxianzhing&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=1e1537&hide_border=true" width="100%" alt="Contribution graph" />
-
-<br>
-
-<!-- Trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=itsxianzhing&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br>
-
-### 🐍 Contribution Snake
+### 🔗 Quick Links
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/snake-dark.svg" alt="snake animation" />
-  </picture>
-</div>
 
-### 👾 Contribution Pac-Man
+[![Profile](https://img.shields.io/badge/GitHub_Profile-0a0e27?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/itsxianzhing)
+[![Repositories](https://img.shields.io/badge/All_Repositories-0a0e27?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/itsxianzhing?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/itsxianzhing?style=for-the-badge&logo=github&logoColor=C4B5FD&label=Followers&labelColor=0a0e27&color=4c3a8a)](https://github.com/itsxianzhing?tab=followers)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/itsxianzhing/itsxianzhing/output/pacman-contribution-graph-dark.svg" alt="pacman animation" />
-  </picture>
 </div>
 
 <!-- Neon divider -->
@@ -283,22 +264,17 @@ hello@tansys.my.id
 
 ### 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=C4B5FD&center=true&vCenter=true&width=520&lines=Open+to+Full-Stack+%2F+Frontend+%2F+Backend+roles.;Got+a+product+idea%3F+Let's+build+it.;hello%40tansys.my.id" alt="Contact typing" />
-</div>
-
-<br>
-
 <p align="center">
-  <a href="mailto:hello@tansys.my.id"><img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/></a>
-  <a href="https://www.linkedin.com/in/fathan-mulyasa-h-599470371/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
-  <a href="https://tansys.my.id/"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=react&logoColor=A78BFA"/></a>
-  <a href="https://github.com/itsxianzhing"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C4B5FD"/></a>
+  <samp>Open to Full-Stack / Frontend / Backend roles. Got a product idea? Let's build it.</samp>
 </p>
 
-<div align="center">
-  <sub>⚡ Designed with a Dark, Minimal Aesthetic & Product Mindset Focus.</sub>
+<p align="center">
+  <a href="mailto:hello@tansys.my.id"><img src="https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fathan-mulyasa-h-599470371/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+  <a href="https://tansys.my.id/"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=react&logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="https://github.com/itsxianzhing"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" /></a>
+</p>
 
-  <!-- Waving Footer Banner (mirrors header gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e1537&height=120&section=footer" width="100%" alt="footer banner" />
-</div>
+<p align="center">
+  <sub>⚡ Designed with a Dark, Minimal Aesthetic & Product Mindset Focus.</sub>
+</p>
