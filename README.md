@@ -45,7 +45,7 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario running" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif" width="100%" alt="Developer animation" />
     </td>
   </tr>
 </table>
