@@ -44,17 +44,11 @@
         <li>✉️ Reach me: <a href="mailto:hello@tansys.my.id">hello@tansys.my.id</a></li>
       </ul>
     </td>
-
     <td width="42%" align="center" valign="top">
-      <img
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif"
-        width="75%"
-        alt="Developer animation"
-      />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif" width="75%" alt="Developer animation" />
     </td>
   </tr>
 </table>
-
 
 <!-- Neon divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1537,50:4c3a8a,100:1e1537&height=2" width="100%" alt="divider" />
