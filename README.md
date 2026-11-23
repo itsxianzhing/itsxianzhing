@@ -34,7 +34,7 @@
 <!-- Intro + GIF side by side -->
 <table width="100%">
   <tr>
-    <td width="58%" valign="middle">
+    <td width="58%" valign="top">
       <h4>About</h4>
       <ul>
         <li>💻 Full-Stack engineer who cares about clean architecture, sensible APIs and real user impact.</li>
@@ -45,17 +45,16 @@
       </ul>
     </td>
 
-    <td width="42%" align="center" valign="middle">
+    <td width="42%" align="center" valign="top">
       <img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif"
-        width="100%"
-        height="280"
-        style="object-fit: contain;"
+        width="75%"
         alt="Developer animation"
       />
     </td>
   </tr>
 </table>
+
 
 <!-- Neon divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1537,50:4c3a8a,100:1e1537&height=2" width="100%" alt="divider" />
