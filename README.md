@@ -31,10 +31,10 @@
   <samp>Current stack: <b>React · Next.js · Laravel · .NET · Node.js · PostgreSQL · Docker</b></samp>
 </p>
 
-<!-- Intro + GIF side by side (full width so it never gets cut off) -->
+<!-- Intro + GIF side by side -->
 <table width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="58%" valign="middle">
       <h4>About</h4>
       <ul>
         <li>💻 Full-Stack engineer who cares about clean architecture, sensible APIs and real user impact.</li>
@@ -44,8 +44,15 @@
         <li>✉️ Reach me: <a href="mailto:hello@tansys.my.id">hello@tansys.my.id</a></li>
       </ul>
     </td>
+
     <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif" width="100%" alt="Developer animation" />
+      <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs4MWRsZGFlbnlxYzY0czEzNTdxdDR2NWlhazNlbWd5M3Fvd2t3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif"
+        width="100%"
+        height="280"
+        style="object-fit: contain;"
+        alt="Developer animation"
+      />
     </td>
   </tr>
 </table>
